@@ -1,0 +1,8 @@
+flask
+torch
+pandas
+numpy
+scikit-learn
+joblib
+marshmallow
+flask-cors
